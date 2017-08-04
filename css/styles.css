@@ -11,6 +11,11 @@ body{
   width: 100%;
   border-radius: 15px;
   border: 2px solid #d7dbe2;
+
+}
+.col-md-2 p img{
+  width: 40%;
+  float: right;
 }
 .well{
   background-color: #dad7ea;
@@ -40,6 +45,6 @@ body{
   padding-top: 10px;
 
 }
-p.white{
+.white{
   color: #d7dbe2;
 }
