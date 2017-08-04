@@ -10,3 +10,16 @@ body{
 .col-md-2 img{
   width: 100%;
 }
+.well{
+  background-color: #dad7ea;
+}
+.thumbnail{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 80%;
+  background-color: black;
+  margin: auto;
+  display: block;
+
+}
