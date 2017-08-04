@@ -4,3 +4,9 @@
 body{
   background-color: #bac9e2
 }
+.jumbotron{
+  background-image:url(../img/jumbo.jpg);
+}
+.col-md-2 img{
+  width: 100%;
+}
