@@ -1,17 +1,19 @@
-.center{
-  text-align: center;
-}
 body{
   background-color: #bac9e2
 }
-.jumbotron{
-  background-image:url(../img/jumbo.jpg);
+
+h1{
+  text-align: center;
+}
+
+#jumbo{
+  padding: 3px;
+  background-image: url(../img/jumbo.jpg);
 }
 .col-md-2 img{
   width: 100%;
   border-radius: 15px;
   border: 2px solid #d7dbe2;
-
 }
 .col-md-2 p img{
   width: 40%;
@@ -29,12 +31,6 @@ body{
   margin: auto;
   display: block;
 }
-.titles{
-  font-family: cursive;
-}
-.interest{
-  font-style: italic;
-}
 .sidebar{
   background-color: #162744;
   height: 100vh;
@@ -43,8 +39,23 @@ body{
   padding-left: 10px;
   padding-right: 10px;
   padding-top: 10px;
-
+}
+.important{
+  font-style: italic;
 }
 .white{
   color: #d7dbe2;
+}
+.footer{
+  position:fixed;
+  bottom:0;
+  width:100%;
+  padding: 3px
+  text-align: center;
+}
+.bold{
+  color: black;
+  font-size: 100px;
+  font-family: cursive;
+
 }
