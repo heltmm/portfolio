@@ -1,5 +1,6 @@
 body{
-  background-color: #bac9e2
+  background-image: url(../img/back7.jpg);
+  background-size: cover;
 }
 
 h1{
@@ -8,7 +9,8 @@ h1{
 
 #jumbo{
   padding: 3px;
-  background-image: url(../img/jumbo.jpg);
+  background-image: url(../img/back9.jpg);
+  background-size: contain;
 }
 .col-md-2 img{
   width: 100%;
@@ -20,7 +22,7 @@ h1{
   float: right;
 }
 .well{
-  background-color: #dad7ea;
+  background-color: rgba(245, 245, 245, 0.7);
 }
 .thumbnail{
   border: 1px solid #ddd;
@@ -32,7 +34,7 @@ h1{
   display: block;
 }
 .sidebar{
-  background-color: #162744;
+  background-color:rgba(26, 29, 86, .9);
   height: 100vh;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -57,5 +59,15 @@ h1{
   color: black;
   font-size: 100px;
   font-family: cursive;
+  color: #d7dbe2;
 
+}
+.center{
+  text-align: center;
+}
+
+.jum{
+  margin: 20px;
+  border-radius: 15px;
+  background-color: rgba(26, 29, 86, .9);
 }
