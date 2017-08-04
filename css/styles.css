@@ -9,6 +9,8 @@ body{
 }
 .col-md-2 img{
   width: 100%;
+  padding: 10px;
+  border-radius: 15px;
 }
 .well{
   background-color: #dad7ea;
@@ -21,4 +23,16 @@ body{
   background-color: black;
   margin: auto;
   display: block;
+}
+.important{
+  font-weight: bold;
+}
+.interest{
+  font-style: italic;
+}
+.sidebar{
+  background-color: #162744;
+  height: 100vh;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
