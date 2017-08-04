@@ -9,8 +9,8 @@ body{
 }
 .col-md-2 img{
   width: 100%;
-  padding: 10px;
   border-radius: 15px;
+  border: 2px solid #d7dbe2;
 }
 .well{
   background-color: #dad7ea;
@@ -24,8 +24,8 @@ body{
   margin: auto;
   display: block;
 }
-.important{
-  font-weight: bold;
+.titles{
+  font-family: cursive;
 }
 .interest{
   font-style: italic;
@@ -35,4 +35,11 @@ body{
   height: 100vh;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+
+}
+p.white{
+  color: #d7dbe2;
 }
