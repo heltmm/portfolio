@@ -11,8 +11,8 @@ _This is a portfolio of all my projects that I completed while attending Epicodu
 ## Setup
 
 * _Open Web Browser._
-* _type https://heltmm.github.io/porfolio into url bar._
-* _Or click this link: [Portfolio](https://heltmm.github.io/porfolio)_
+* _type https://heltmm.github.io/portfolio into url bar._
+* _Or click this link: [Portfolio](https://heltmm.github.io/portfolio)_
 
 ## Known Bugs
 
